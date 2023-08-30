@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Weather-Map/static/css/main.b307ec3e.css",
+    "main.js": "/Weather-Map/static/js/main.f0a2b8ba.js",
+    "static/js/787.d3befce1.chunk.js": "/Weather-Map/static/js/787.d3befce1.chunk.js",
+    "static/media/snows.jpg": "/Weather-Map/static/media/snows.ad9a7717be1e63a45b01.jpg",
+    "static/media/sunset.svg": "/Weather-Map/static/media/sunset.1d1ced37dbf59e269cd6.svg",
+    "static/media/thunderstorm.jpg": "/Weather-Map/static/media/thunderstorm.c457d46768a223872753.jpg",
+    "static/media/head.svg": "/Weather-Map/static/media/head.92c29669fa1961ffff6d.svg",
+    "static/media/rains.jpg": "/Weather-Map/static/media/rains.b5f8b37b42bc806d293f.jpg",
+    "static/media/dir.svg": "/Weather-Map/static/media/dir.5c4ecd33bfa43f127af5.svg",
+    "static/media/sunrise.svg": "/Weather-Map/static/media/sunrise.d17eba8a474ccf3f56a1.svg",
+    "static/media/bgrain.svg": "/Weather-Map/static/media/bgrain.ba81d4064e18b6f59e5b.svg",
+    "static/media/marker.svg": "/Weather-Map/static/media/marker.1af30af5e7adbf3c3411271345187271.svg",
+    "index.html": "/Weather-Map/index.html",
+    "static/media/clear.svg": "/Weather-Map/static/media/clear.650556954060ece881248c100d876975.svg",
+    "main.b307ec3e.css.map": "/Weather-Map/static/css/main.b307ec3e.css.map",
+    "main.f0a2b8ba.js.map": "/Weather-Map/static/js/main.f0a2b8ba.js.map",
+    "787.d3befce1.chunk.js.map": "/Weather-Map/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b307ec3e.css",
+    "static/js/main.f0a2b8ba.js"
+  ]
+}
